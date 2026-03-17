@@ -6,7 +6,7 @@
     
 
   <p align="center">
-    📍 Santiago, Chile &nbsp;·&nbsp; 💻 Disponible para Proyectos &nbsp;·&nbsp; ✉️ <a href="mailto:tu-correo@gmail.com">tu-correo@gmail.com</a>
+    📍 Santiago, Chile &nbsp;·&nbsp;
   </p>
 
 </div>
@@ -27,7 +27,7 @@ Soy Allan, una persona que le gusta estudiar y aprender cosas nuevas. me gusta l
 
 ### 🛡️ Ciberseguridad
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,ubuntu,py,redhat,mysql&theme=dark" alt="Ciberseguridad y Datos" />
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,redhat&theme=dark" alt="Ciberseguridad y Datos" />
 </a>
 
 <br>
