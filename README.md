@@ -28,7 +28,6 @@ Soy Allan, una persona que le gusta estudiar y aprender cosas nuevas. me gusta l
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=kali,ubuntu,py,redhat,mysql&theme=dark" alt="Ciberseguridad y Datos" />
 </a>
-<p><i>Pentesting · Análisis de Datos · SQL · Hacking Ético</i></p>
 
 <br>
 
