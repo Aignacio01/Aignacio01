@@ -2,7 +2,9 @@
 
 
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=35&pause=1000&color=FF003C&background=00000000&center=true&vCenter=true&width=700&lines=ALLAN...;FORJANDO+C%C3%93DIGO" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=35&pause=1000&color=FF003C&background=00000000&center=true&vCenter=true&width=700&lines=ALLAN+N%C3%9A%C3%91EZ;FORJANDO+C%C3%93DIGO" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=35&pause=1000&color=FF003C&background=00000000&center=true&vCenter=true&width=700&lines=ALLAN+N%C3%9A%C3%91EZ;FORJANDO+C%C3%93DIGO." alt="Typing effect" />
+    
 
   <p align="center">
     📍 Santiago, Chile &nbsp;·&nbsp; 💻 Disponible para Proyectos &nbsp;·&nbsp; ✉️ <a href="mailto:tu-correo@gmail.com">tu-correo@gmail.com</a>
