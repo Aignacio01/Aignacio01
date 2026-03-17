@@ -101,8 +101,6 @@ Soy Allan, una persona que le gusta estudiar y aprender cosas nuevas. me gusta l
   <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
   <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
   <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
 </div>
 
 <br>
