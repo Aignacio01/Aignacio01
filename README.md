@@ -26,12 +26,16 @@ Soy Allan, una persona que le gusta estudiar y aprender cosas nuevas. me gusta l
 <br>
 
 <div align="center">
-  <img height="600" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM3ODYwNjIsIm5iZiI6MTc3Mzc4NTc2MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzE3VDIyMTYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxNzRhM2QzYmI4YTVhNWI0MTVjNGVhYmNhOTM1ZDk1YmQzYjNkOWQ4NzRiZTUxZTM2NmExZDVlNzlmZTI1NmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n8DaWWmM4q8aJ4LU8Ym433yJuhRdYj21tGBPpAtzq8k"  />
+  <img height="100%" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM3ODYwNjIsIm5iZiI6MTc3Mzc4NTc2MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzE3VDIyMTYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxNzRhM2QzYmI4YTVhNWI0MTVjNGVhYmNhOTM1ZDk1YmQzYjNkOWQ4NzRiZTUxZTM2NmExZDVlNzlmZTI1NmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n8DaWWmM4q8aJ4LU8Ym433yJuhRdYj21tGBPpAtzq8k"  />
 </div>
 
 
 
 ## 🛠️ Aprendizajes
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Banner Dinámico" width="30%">
+</p>
 
 <div align="center">
 
@@ -75,6 +79,30 @@ Soy Allan, una persona que le gusta estudiar y aprender cosas nuevas. me gusta l
   | **Herramientas** | Cisco Packet Tracer, Wireshark, VirtualBox, SSH/Telnet |
   | **Soporte** | Soporte TIC |
 
+
+</div>
+<div align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40">
 </div>
 
 <br>
@@ -108,25 +136,3 @@ Soy Allan, una persona que le gusta estudiar y aprender cosas nuevas. me gusta l
 </div>
 <br>
 <br>
-
-
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
