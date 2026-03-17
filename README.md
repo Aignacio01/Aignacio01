@@ -77,8 +77,7 @@ Soy Allan, una persona que le gusta estudiar y aprender cosas nuevas. me gusta l
   | **Arquitectura de Red** | Diseño de topologías, Subnetting VLSM, Modelo OSI/TCP-IP |
   | **Routing & Switching** | Configuración Cisco CCNA, VLANs, Routing Estático y Dinámico |
   | **Herramientas** | Cisco Packet Tracer, Wireshark, VirtualBox, SSH/Telnet |
-  | **Soporte** | Soporte TIC |
-
+  | **Soporte** | Soporte a usuarios, Resolución de problemas, Mantención de equipos, Respaldos |
 
 </div>
 <div align="center">
